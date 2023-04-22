@@ -6,9 +6,9 @@ Este es un proyecto en R3F que contiene una escena con dos paredes: una con un v
 
 ## Instalación
 
-1. Clona el repositorio: 
+1. Clona el repositorio: <br/>
 ```git clone https://github.com/JoshuaAAX/reto-clase-5.git```
-2. Instala las dependencias: 
+2. Instala las dependencias: <br/>
 ```npm install```
-4. Ejecuta el proyecto: 
+4. Ejecuta el proyecto: <br/>
 ```npm start```
